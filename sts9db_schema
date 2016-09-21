@@ -5,6 +5,10 @@ SONG
 -OriginalArtist
 -Album
 
+SONG_ALIAS
+*^SongID
+*AltName
+
 SHOW
 *Date
 ^VenueID

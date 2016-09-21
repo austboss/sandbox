@@ -1,0 +1,8 @@
+
+
+Open text editor: "c9 open <filename>"
+
+Useful C9 keybindings:
+Shift+ESC:      focus directory tree
+Ctrl+Shift+S:   save as
+Alt+W:          close tab
